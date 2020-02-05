@@ -1,0 +1,129 @@
+# Table of content
+
+- [The developer evangelism handbook](01-handbook.md)
+  - Defining developer evangelism
+  - Start with the right mindset
+  - Find your role and play to your strengths
+- [About brand and competition](02-brand-and-competition.md)
+  - Remove the brand
+  - Work with the competition
+    - Show respect to the competition
+    - Acknowledge when the competition is better
+    - Know about the competition
+    - Build mashups using competitive products
+- [Work with your own company](03-internal.md)
+  - Work with your own company
+    - Work with PR and marketing
+    - Prepare for prejudice
+    - Deal with company changes
+    - Be there for internal developers
+    - Be known as an outward channel
+    - Train other evangelists and developers
+    - Share useful technology
+    - Balance your personal and official channels
+- [Planning outreach](04-outreach.md)
+  - Prepare for outreach
+    - Get your facts right
+    - Know the audience and their needs
+    - Have expert backup
+    - Choose the right medium
+    - Plan for failure
+- [Get speaking opportunities](05-speaking-opportunities.md)
+  - Get speaking opportunities
+    - Go to Barcamps
+    - Go to Meetups
+    - Write articles
+    - Offer brownbags
+    - Ask questions at conferences
+- [Travel and conference participation](06-travel-confs.md)
+  - Travel and conference participation
+    - Getting your travel and accommodation sorted
+    - Who pays what?
+    - Be at the event
+    - Give the event some social media love
+    - Use the event to build a network
+    - Keep track of your conference participation
+- [Delivering presentations](07-delivery.md)
+  - Deliver a talk or workshop
+    - Be yourself
+    - Invite communication
+    - Prepare takeaways
+    - Plan time for and own the questions and answers
+    - Be honest and real
+    - Follow up communication
+- [Keeping time in presentations](08-time.md)
+  - How to keep a talk on time
+    - How will I fit all of this in X minutes?
+    - Less is more
+    - Your talk is only extremely important to you
+    - Map out more information
+    - Live coding?
+    - Avoid questions
+    - Things to cut
+    - Talk fillers
+    - In summary
+- [Writing for the web](09-writing.md)
+  - Write great posts and articles
+    - Simple is not stupid
+    - Say what it is - don’t sugar-coat it
+    - Size matters
+    - Add media
+    - Structure your content
+    - Time-stamp your content
+    - Cite to prove
+    - Pre-emptive writing [New!]
+- [Writing excellent code examples](10-code.md)
+  - Write excellent code examples
+    - Solve a problem with your example
+    - Show a working example
+    - Explain the necessary environment
+    - Write working copy and paste code
+    - Have the example as a download
+    - Write clean and clever examples
+    - Build code generators
+- [Prepare great slide decks for presentations](11-slides.md)
+  - Prepare great slide decks for presentations
+    - Know your stuff
+    - Start with the content – not the slides!
+    - Start with a highly portable format – HTML
+    - Pick a presentation tool that helps you present
+    - Illustrate, don't transcribe
+    - Use and find images
+    - About code examples
+    - About sound and videos
+    - Don't bling it up
+    - Keep it brief
+    - Consider the audience
+    - Corporate and conference templates
+    - Don't reuse without personalising
+    - Share and enjoy
+- [Recording your talks](12-record.md)
+  - Record your output
+    - Record the audio of your talks
+    - Shoot video
+    - Screencasts and screenshots
+    - Link collections
+- [Using the (social) web](13-web.md)
+  - Know and use the (social) web
+    - Find great web content
+    - Redistribute web content
+    - Be known on the web
+    - Use powerful social web sites and products
+    - Use the web for storage, distribution and cross-promotion
+    - Hint, tease and preview
+    - Track your impact
+    - Build a network
+- [Using the conference buzz](14-conferences.md)
+  - Work with the conference buzz
+    - Be a part of the conference you talk at
+    - Release immediately
+    - Write about the conferences
+- [Additional tips](15-tips.md)
+  - Additional presentation tips
+    - Introduce yourself
+    - Use humour
+    - Build bridges to the real world
+    - Pace yourself
+    - Avoid “hello world”
+    - Be fresh
+- [Thanks!](16-thanks.md)
